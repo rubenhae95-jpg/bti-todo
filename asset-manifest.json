@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bti-todo/static/css/main.ceb21f67.css",
-    "main.js": "/bti-todo/static/js/main.e1311132.js",
-    "index.html": "/bti-todo/index.html",
-    "main.ceb21f67.css.map": "/bti-todo/static/css/main.ceb21f67.css.map",
-    "main.e1311132.js.map": "/bti-todo/static/js/main.e1311132.js.map"
+    "main.css": "/blue-tick-to-do/static/css/main.ceb21f67.css",
+    "main.js": "/blue-tick-to-do/static/js/main.e1311132.js",
+    "index.html": "/blue-tick-to-do/index.html",
+    "main.ceb21f67.css.map": "/blue-tick-to-do/static/css/main.ceb21f67.css.map",
+    "main.e1311132.js.map": "/blue-tick-to-do/static/js/main.e1311132.js.map"
   },
   "entrypoints": [
     "static/css/main.ceb21f67.css",
